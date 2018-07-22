@@ -1,1 +1,8 @@
-index.html  style.css
+h2 {
+   color: coral;
+   display: inline 
+}
+.picture {
+    height: 200px;
+    width: 260px;
+}
